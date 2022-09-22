@@ -1,5 +1,5 @@
-![I am React Native Developer](https://crowdbotics.ghost.io/content/images/2020/08/React-Native-Featured-Image.png)
-# Hi there 👋, Nadim
+![React Native Developer](https://crowdbotics.ghost.io/content/images/2020/08/React-Native-Featured-Image.png)
+# Nadim Radjab
 
 I'm a React Native developer based in Germany NRW. Currently, I'm focused on updating my apps and improving my React Native skills.
 
