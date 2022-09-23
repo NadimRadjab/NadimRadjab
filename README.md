@@ -1,4 +1,4 @@
-![React Native Developer](https://www.nr-cop-apps.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.47d7e46f.png&w=3840&q=75)
+![I am React Native Developer](https://crowdbotics.ghost.io/content/images/2020/08/React-Native-Featured-Image.png)
 # Nadim Radjab
 
 I'm a React Native developer based in Germany NRW. Currently, I'm focused on updating my apps and improving my React Native skills.
