@@ -8,4 +8,6 @@ I'm a React Native developer based in Germany NRW. Currently, I'm focused on upd
 * :iphone: React Native
 * :computer: HTML, CSS, JS 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NadimRadjab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.nr-cop-apps.com/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadimRadjab)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NadimRadjab&show_icons=true&count_private=true)   
