@@ -9,6 +9,6 @@ I'm a React Native developer based in Germany NRW. Currently, I'm focused on upd
 * :computer: HTML, CSS, JS, TS
 
 ![Top Langs](https://github-readme-stats-crkn5g4qd-nadimradjab.vercel.app/api/top-langs/?username=NadimRadjab)
-![GitHub stats](https://github-readme-stats-nadimradjab.vercel.app/api?username=NadimRadjab&show_icons=true&count_private=true)   
+![GitHub stats](https://github-readme-stats-crkn5g4qd-nadimradjab.vercel.app/api?username=NadimRadjab&show_icons=true&count_private=true)   
 
 
