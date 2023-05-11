@@ -8,6 +8,6 @@ I'm a React Native developer based in Germany NRW. Currently, I'm focused on upd
 * :iphone: React Native
 * :computer: HTML, CSS, JS, TS
 
-[![Top Langs](https://github-readme-stats-nadimradjab.vercel.app/api/top-langs/?username=NadimRadjab)](https://github.com/anuraghazra/github-readme-stats)         ![GitHub stats](https://github-readme-stats-nadimradjab.vercel.app/api?username=NadimRadjab&show_icons=true&count_private=true)   
+[![Top Langs](https://github-readme-stats-two-sigma-22.vercel.app/api/top-langs/?username=NadimRadjab)](https://github.com/anuraghazra/github-readme-stats)         ![GitHub stats](https://github-readme-stats-two-sigma-22.vercel.app/api?username=NadimRadjab&show_icons=true&count_private=true)   
 
 
