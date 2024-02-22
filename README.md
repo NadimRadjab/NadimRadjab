@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Software Developer developer based in Germany<br>🎯  Currently, I'm focused on updating my apps and improving my React Native skills<br>🌱 I’m currently learning Game Development<br>💬 Ask me about fitness & programming<br>⚡ Fun fact Exercise boosts brainpower
+🔭 I'm a Software Developer developer based in Germany<br> Ask me about fitness & programming<br>⚡ Fun fact Exercise boosts brainpower
 
 
 # 💻 Tech Stack:
