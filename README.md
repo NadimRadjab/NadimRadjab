@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Software Developer developer based in Germany<br> Ask me about fitness & programming<br>⚡ Fun fact Exercise boosts brainpower
+🔭 I'm a Software Developer developer based in Germany<br>💬 Ask me about fitness & programming<br>⚡ Fun fact Exercise boosts brainpower
 
 
 # 💻 Tech Stack:
